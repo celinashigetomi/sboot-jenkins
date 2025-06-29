@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+  Aplicacao: ${application.title}
+Spring Boot: ${spring-boot.version}
+      Porta: ${server.port}
+     Perfil: ${spring.profiles.active}
+   Contexto: ${server.servlet.context-path}
+-------------------------------------------------------------------------------
